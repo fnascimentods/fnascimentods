@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hey, I'm Felipe Nascimento 👋
-![Alt Text](https://assets8.lottiefiles.com/packages/lf20_vEfHlN.json)
+![](animation_500_kfziclu1.gif)
 
 I’m currently a software developer at MMA Internet e Sistemas Ltda and I’m learning JavaScript, Node.JS, ReactJS and React Native in the free time.
 
