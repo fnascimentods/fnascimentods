@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 I’m currently a software developer at MMA Internet e Sistemas Ltda and I’m learning JavaScript, Node.JS, ReactJS and React Native in the free time.
 
-Besides that, I'm graduating in Analysis and Development of Systems at Instituto Federal da Bahia (IFBA) and I love programming.
+Besides that, I'm graduating in Systems Analysis and Development at Instituto Federal da Bahia (IFBA) and I love programming.
