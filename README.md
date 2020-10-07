@@ -13,4 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Felipe Nascimento
+### Hi there 👋
+
+I’m currently a software developer at MMA Internet e Sistemas Ltda and I’m learning JavaScript, Node.JS, ReactJS and React Native in the free time.
+Besides that, I'm graduating in Analysis and Development of Systems at Instituto Federal da Bahia (IFBA) and I love programming.
